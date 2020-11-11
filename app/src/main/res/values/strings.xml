@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">RecyclerView Car</string>
+    <string name="placa">PLACA</string>
+    <string name="marca">MARCA</string>
+    <string name="modelo">MODELO</string>
+    <string name="color">COLOR</string>
+    <string name="precio">PRECIO</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="kia">KIA</string>
+    <string name="mazda">MAZDA</string>
+    <string name="dodge">DODGE</string>
+    <string name="ford">FORD</string>
+    <string name="bmw">BMW</string>
+    <string name="año1">2008</string>
+    <string name="año2">2001</string>
+    <string name="año3">2019</string>
+    <string name="rojo">Rojo</string>
+    <string name="negro">Negro</string>
+    <string name="titulo_detalle">Detalle Automóvil</string>
+    <string-array name="colores">
+        <item>@string/rojo</item>
+        <item>@string/negro</item>
+    </string-array>
+
+    <string-array name="modelos">
+        <item>@string/año1</item>
+        <item>@string/año2</item>
+        <item>@string/año3</item>
+    </string-array>
+
+    <string-array name="marcas">
+        <item>@string/kia</item>
+        <item>@string/mazda</item>
+        <item>@string/ford</item>
+        <item>@string/bmw</item>
+    </string-array>
+
+</resources>
